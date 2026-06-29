@@ -1,12 +1,6 @@
-\# This is H1
+# \# This is H1
 
+# \## This is H2
 
-
-\## This is H2
-
-
-
-\### THis is H3
-
-
+# \### This is H3
 
